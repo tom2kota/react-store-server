@@ -11,7 +11,7 @@ E-commerce project DEMO:
     npm run start
 ```
 
-Go to [localhost:3000](http://localhost:3000)
+Go to [localhost:5000](http://localhost:5000)
 
 ---------------
 
