@@ -1,9 +1,9 @@
 const express = require('express');
 const router = express.Router();
 
-/* GET users listing */
+/* GET payment API */
 router.get('/', function (req, res, next) {
-    res.send('Users respond with a resource');
+    res.send('Payment API');
 });
 
 module.exports = router;
