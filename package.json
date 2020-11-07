@@ -1,13 +1,14 @@
 {
   "name": "react-store-server",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "node": "14.15.0",
-    "npm": "7.0.7"
+    "npm": "7.0.9"
   },
   "private": true,
   "scripts": {
-    "start": "node ./bin/stripe",
+    "start": "node ./bin/www",
+    "stripe": "node ./bin/stripe",
     "web": "nodemon ./bin/www"
   },
   "dependencies": {
