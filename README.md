@@ -29,3 +29,15 @@ Get your test API keys:
 ![img](./payment.png)
 
 
+-------------
+
+### [Heroku Dashboard](https://dashboard.heroku.com/apps/react-store-express-server/logs)
+
+``` 
+    2020-11-07T21:32:17.746438+00:00 heroku[web.1]: Starting process with command `npm start`
+    2020-11-07T21:32:20.068046+00:00 app[web.1]: 
+    2020-11-07T21:32:20.068065+00:00 app[web.1]: > react-store-server@0.2.0 start
+    2020-11-07T21:32:20.068065+00:00 app[web.1]: > node ./bin/stripe
+    2020-11-07T21:32:20.068065+00:00 app[web.1]: 
+    2020-11-07T21:32:20.244334+00:00 app[web.1]: Server running on port 5987
+```
